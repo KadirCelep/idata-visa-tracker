@@ -3,6 +3,7 @@ This script checks visa application status every 300 seconds using idata.com.tr 
 
 
 ## Installation
-edit `config.py` for configuration (visa application details)
-run `python main.py`
 
+edit `config.py` for configuration (visa application details)
+
+run `python main.py`
